@@ -53,7 +53,7 @@ ng build --base-href "https://Hereigo.github.io/CheatsSheet/"
 #### Publishing to GH-Pages.
 
 ```sh
-ngh --dir dist/my-app-name
+ngh --dir dist/cheats-sheet
 # or
-npx angular-cli-ghpages --dir=dist/Project-name
+npx angular-cli-ghpages --dir=dist/cheats-sheet
 ```
